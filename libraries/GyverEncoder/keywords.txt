@@ -17,6 +17,8 @@ tick	KEYWORD2
 setType	KEYWORD2
 setDirection	KEYWORD2
 setFastTimeout	KEYWORD2
+setPinMode	KEYWORD2
+setBtnPinMode	KEYWORD2
 isTurn	KEYWORD2
 isRight	KEYWORD2
 isLeft	KEYWORD2
@@ -28,9 +30,10 @@ isFastL	KEYWORD2
 isPress	KEYWORD2
 isRelease	KEYWORD2
 isClick	KEYWORD2
+isSingle	KEYWORD2
+isDouble	KEYWORD2
 isHolded	KEYWORD2
 isHold	KEYWORD2
-fast_timeout	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
@@ -42,3 +45,6 @@ MANUAL	LITERAL1
 AUTO	LITERAL1
 NORM	LITERAL1
 REVERSE	LITERAL1
+HIGH_PULL	LITERAL1
+LOW_PULL	LITERAL1
+ENC_NO_BUTTON	LITERAL1
