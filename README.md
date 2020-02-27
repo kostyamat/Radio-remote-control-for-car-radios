@@ -1,5 +1,5 @@
 ## Радио-удлиннитель кнопок руля, для автомобильных магнитол, обладающих способностью распознавания резистивных кнопок.
-  [![Watch the video](https://img.youtube.com/vi/https://youtu.be/470r13HLdKc/maxresdefault.jpg)](https://youtu.be/470r13HLdKc)
+  [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
   
   https://youtu.be/470r13HLdKc
 
