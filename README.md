@@ -1,5 +1,7 @@
 ## Радио-удлиннитель кнопок руля, для автомобильных магнитол, обладающих способностью распознавания резистивных кнопок.
-  [![Watch the video](https://img.youtube.com/vi/https://www.youtube.com/watch?v=470r13HLdKc/maxresdefault.jpg)](https://www.youtube.com/watch?v=470r13HLdKc)
+  [![Watch the video](https://img.youtube.com/vi/https://youtu.be/470r13HLdKc/maxresdefault.jpg)](https://youtu.be/470r13HLdKc)
+  
+  https://youtu.be/470r13HLdKc
 
 Система состоит из двух устройств: передатчик и приемник. Схемы обоих устройств представлены в файле Schematic_TX_RX-buttons.png
 
