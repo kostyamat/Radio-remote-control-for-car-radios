@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=470r13HLdKc
 
 Схема:
 
-<img src="https://github.com/kostyamat/Car-china-radio-remote-control/blob/master/Schematic_battery_TX.png" width="900">
+<img src="https://github.com/kostyamat/Radio-remote-control-for-car-radios/blob/master/Schematic_TX_RX-buttons.png" width="900">
 
 
 
