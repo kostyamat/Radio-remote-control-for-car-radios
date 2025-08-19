@@ -1,6 +1,6 @@
 # Wireless Steering Wheel Control Extender for Car Radios
 
-[Ukrainian Version](#ukrainian-version)
+## 🇺🇦 [Ukrainian Version](#ukrainian-version)
 
 [![Watch the video](https://img.youtube.com/vi/470r13HLdKc/maxresdefault.jpg)](https://youtu.be/470r13HLdKc)
 
@@ -251,3 +251,4 @@ If you found this project useful, you can show your appreciation:
 ## Підтримати автора
 Якщо цей проект був вам корисний, ви можете подякувати автору:
 [<img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" width="100">](https://www.paypal.me/kostyamat)
+
