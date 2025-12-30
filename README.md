@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/kostyamat">
+    <img src="https://thumbs.dreamstime.com/b/cute-kawaii-coffee-mug-character-smiling-steam-isolated-white-adorable-cartoon-happy-face-decorative-lace-pattern-401912575.jpg" alt="Buy me a coffee" width="200"/>
+    <br>
+    <strong>If you found my work helpful, buy me a coffee! It keeps me motivated ☕</strong>
+  </a>
+</p>
+
+
+
 # Wireless Steering Wheel Control Extender for Car Radios
 
 ## 🇺🇦 [Ukrainian Version](#ukrainian-version)
@@ -251,4 +261,5 @@ If you found this project useful, you can show your appreciation:
 ## Підтримати автора
 Якщо цей проект був вам корисний, ви можете подякувати автору:
 [<img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" width="100">](https://www.paypal.me/kostyamat)
+
 
